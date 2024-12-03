@@ -1,1 +1,1 @@
-Files for genotype error detection
+Whole-genome sequencing data is known to contain errors, which can confound the results of various downstream analyses. Current error detection methods are limited to using data from parent-offspring trios, which represent <1% of the samples in UK Biobank data. Here we present a novel algorithm that uses identity by descent (IBD) principles to detect a vast majority of genotype errors across all samples. 
